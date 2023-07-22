@@ -1,4 +1,5 @@
-# Generative Models Research
+# AMATH 563 - Generative Models Research
+Supporting code for a thorough analysis of variational autoencoders and flow-based models expressed as transport maps parameterized within an RKHS as the final project of the Spring 2023 offering of AMATH 563: Inferring Structure of Complex Systems.
 
 ## Models
 
