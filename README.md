@@ -3,7 +3,8 @@ Supporting code and written report for a thorough analysis of variational autoen
 
 ## Models
 
-### VAE: Variational Autoencoders [[arxiv]](https://arxiv.org/pdf/1312.6114.pdf))
+### VAE: Variational Autoencoders [[arxiv]](https://arxiv.org/pdf/1312.6114.pdf)
+- Implemented in models/vae directory
 
 ### NICE: Nonlinear Independent Components Estimation [[arxiv]](https://arxiv.org/pdf/1410.8516.pdf)
 - Implemented in models/nice directory
