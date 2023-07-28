@@ -1,7 +1,9 @@
 # AMATH 563 Final Project - Deep Generative Models as Kernels
-Supporting code and written report for a thorough analysis of variational autoencoders and flow-based models expressed as transport maps parameterized within an RKHS. This was the final project submission for the Spring 2023 offering of AMATH 563: Inferring Structure of Complex Systems.
+Supporting code and written report for a thorough analysis of variational autoencoders and flow-based models expressed as transport maps parameterized within an RKHS. The VAE and flow-based models are implemented in PyTorch and trained on MNIST. This was the final project submission for the Spring 2023 offering of AMATH 563: Inferring Structure of Complex Systems.
 
 ## Models
+
+### VAE: Variational Autoencoders [[arxiv]](https://arxiv.org/pdf/1312.6114.pdf))
 
 ### NICE: Nonlinear Independent Components Estimation [[arxiv]](https://arxiv.org/pdf/1410.8516.pdf)
 - Implemented in models/nice directory
