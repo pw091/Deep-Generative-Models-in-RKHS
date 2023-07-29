@@ -2,6 +2,8 @@
 Supporting code and a [written report](final_report.pdf) for a thorough analysis of variational autoencoders (VAEs) and flow-based models expressed as transport maps parameterized within a reproducing kernel Hilbert space (RKHS). The robust mathematical construction of neural network-based generative models in this setting was the main objective; the PyTorch implementations of VAE and flow-based models on MNIST serve as a complementary empirical component.
 
 ## Models
+[models/](models) contains architectures developed for use in this project.
+
 1. VAE: Variational Autoencoders [[arxiv]](https://arxiv.org/pdf/1312.6114.pdf)
 - Primary contributor: [pw091](https://github.com/pw091)
 
@@ -9,7 +11,10 @@ Supporting code and a [written report](final_report.pdf) for a thorough analysis
 - Primary contributor: [wrenparismoe](https://github.com/wrenparismoe)
 
 ## Notebooks
-testing
+[notebooks/](notebooks) contains unrefined Jupyter notebooks used for exploration and plotting,
+1. blank
+2. blank
+3. blank
 
 ## Generated Samples
 ![vae_mnist_e10](samples/lucky5s.png#center)
