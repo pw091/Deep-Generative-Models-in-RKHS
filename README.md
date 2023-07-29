@@ -6,7 +6,10 @@ Supporting code and a [written report](final_report.pdf) for a thorough analysis
 - Primary contributor: [pw091](https://github.com/pw091)
 
 2. NICE: Nonlinear Independent Components Estimation [[arxiv]](https://arxiv.org/pdf/1410.8516.pdf)
-- Primary contributor: []()
+- Primary contributor: [wrenparismoe](https://github.com/wrenparismoe)
+
+## Notebooks
+testing
 
 ## Generated Samples
 ![vae_mnist_e10](samples/lucky5s.png#center)
