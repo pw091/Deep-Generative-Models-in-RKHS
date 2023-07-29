@@ -1,11 +1,12 @@
 # AMATH 563 Final Project - Deep Generative Models as Kernels
 Supporting code and a [written report](final_report.pdf) for a thorough analysis of variational autoencoders (VAEs) and flow-based models expressed as transport maps parameterized within a reproducing kernel Hilbert space (RKHS). The robust mathematical construction of neural network-based generative models in this setting was the main objective; the PyTorch implementations of VAE and flow-based models on MNIST serve as a complementary empirical component.
 
-## VAE: Variational Autoencoders [[arxiv]](https://arxiv.org/pdf/1312.6114.pdf)
-- Implemented in models/vae directory
+## Models
+1. VAE: Variational Autoencoders [[arxiv]](https://arxiv.org/pdf/1312.6114.pdf)
+- Primary contributor: [pw091](https://github.com/pw091)
 
-## NICE: Nonlinear Independent Components Estimation [[arxiv]](https://arxiv.org/pdf/1410.8516.pdf)
-- Implemented in models/nice directory
+2. NICE: Nonlinear Independent Components Estimation [[arxiv]](https://arxiv.org/pdf/1410.8516.pdf)
+- Primary contributor: []()
 
 ## Generated Samples
 ![vae_mnist_e10](samples/lucky5s.png#center)
