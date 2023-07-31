@@ -5,16 +5,16 @@ Supporting code and a [written report](final_report.pdf) for a thorough analysis
 [models/](models) contains architectures developed for use in this project.
 
 - VAE: Variational Autoencoders [[arxiv]](https://arxiv.org/pdf/1312.6114.pdf)
-  - Primary contributor: [pw091](https://github.com/pw091)
+  - *Primary contributor:* [pw091](https://github.com/pw091)
 
 - NICE: Nonlinear Independent Components Estimation [[arxiv]](https://arxiv.org/pdf/1410.8516.pdf)
-  - Primary contributor: [wrenparismoe](https://github.com/wrenparismoe)
+  - *Primary contributor:* [wrenparismoe](https://github.com/wrenparismoe)
 
 ## Notebooks
 [notebooks/](notebooks) contains unrefined Jupyter notebooks used for exploration and plotting.
 - [cvae_pytorch.ipynb](notebooks/cvae_pytorch.ipynb) and [nice_pytorch.ipynb](notebooks/nice_pytorch.ipynb) correspond to the above models and respective contributors.
 - [kernel_mmd.ipynb](notebooks/kernel_mmd.ipynb) (mean maximum discrepancy) [[jmlr]](https://jmlr.org/papers/volume13/gretton12a/gretton12a.pdf) was intended to complement our analysis of the other models but was abandoned early due to report length constraints.
-  - Primary contributor: [pw091](https://github.com/pw091)
+  - *Primary contributor:* [pw091](https://github.com/pw091)
 
 ## Generated Samples
 ![vae_mnist_e10](samples/lucky5s.png#center)
